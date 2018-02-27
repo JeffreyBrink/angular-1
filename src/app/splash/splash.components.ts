@@ -13,6 +13,6 @@ export class SplashComponent implements OnInit {
 
 	ngOnInit(): void {
 		this.userService.getAllUsers()
-			.subscribe(users => this.users = users);
+			.subscribe( users => this.users = users);
 	}
 }
