@@ -3,9 +3,9 @@
   "version": "3.0.0",
   "license": "Apache-2.0",
   "author": {
-    "name": "Dylan McDonald",
-    "email": "dylan@deepdivedylan.io",
-    "url": "https://www.deepdivedylan.io/"
+    "name": "Jeffrey Brink",
+    "email": "JeffreyBrink@GMX.com",
+    "url": "https://www.linkedin.com/in/jeffreybrink11/"
   },
   "scripts": {
     "build": "rimraf public_html/dist && tsc && webpack --config webpack/webpack.live.js --progress --profile --bail",
