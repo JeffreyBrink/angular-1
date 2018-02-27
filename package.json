@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deepdivedylan/angular5-example.git"
+    "url": "https://github.com/jeffreybrink/angular-1.git"
   },
   "dependencies": {
     "@angular/common": "^5.2.6",
@@ -30,7 +30,6 @@
   },
   "devDependencies": {
     "@types/node": "^8.0.47",
-    "ajv": "^6.2.0",
     "awesome-typescript-loader": "^3.5.0",
     "bootstrap": "^4.0.0-beta.2",
     "css-loader": "^0.28.7",
